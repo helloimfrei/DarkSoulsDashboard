@@ -1,3 +1,3 @@
 # DarkSoulsDashboard
-An exploration of the legendary game developer, FromSoft, and the rise of the "souls-like" subgenre.
+FromSoft (From Software) is the iconic developer behind the "Dark Souls" series and origin of the popular "Souls-Like" subgenre. Characterized by unforgiving combat and an emphasis on unique level design, the subgenre has seen substantial growth due to FromSoft's success. Here, we explore the history of the developer behind it all and the rise of a brutally difficult generation of games.
 Explore the dashboard on [Tableau Public](https://public.tableau.com/views/YouDiedTheRiseOfTheSouls-Like/YouDiedDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)! 
